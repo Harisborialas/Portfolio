@@ -32,19 +32,19 @@ const MainPage = () => {
               <div className="col-lg-4">
                 <div className="row">
                   <div className="col-lg-12">
-                    <div class="card">
+                    <div className="card">
                       <b></b>
-                      <div class="content">
-                        <p class="title">
+                      <div className="content">
+                        <p className="title">
                           Social Sites
                           <br />
                           <span>Visit if you want</span>
                         </p>
-                        <ul class="sci">
+                        <ul className="sci">
                           <li>
                             <a href="#">
                               <svg
-                                class="fa-brands fa-facebook"
+                                className="fa-brands fa-facebook"
                                 width="20"
                                 xmlns="http://www.w3.org/2000/svg"
                                 viewBox="0 0 320 512">
@@ -56,7 +56,7 @@ const MainPage = () => {
                           <li>
                             <a href="#">
                               <svg
-                                class="fa-brands fa-twitter"
+                                className="fa-brands fa-twitter"
                                 width="24"
                                 xmlns="http://www.w3.org/2000/svg"
                                 viewBox="0 0 512 512">
@@ -68,7 +68,7 @@ const MainPage = () => {
                           <li>
                             <a href="#">
                               <svg
-                                class="fa-brands fa-linkedin-in"
+                                className="fa-brands fa-linkedin-in"
                                 width="24"
                                 xmlns="http://www.w3.org/2000/svg"
                                 viewBox="0 0 448 512">
@@ -80,7 +80,7 @@ const MainPage = () => {
                           <li>
                             <a href="#">
                               <svg
-                                class="fa-brands fa-instagram"
+                                className="fa-brands fa-instagram"
                                 width="24"
                                 xmlns="http://www.w3.org/2000/svg"
                                 viewBox="0 0 448 512">
@@ -229,12 +229,12 @@ const MainPage = () => {
                       </div>
                     </div>
                     <div className="col-lg-4 col-12">
-                      <div class="cards2">
+                      <div className="cards2">
                         <span></span>
                       </div>
                     </div>
                     <div className="col-lg-4 col-12">
-                      <div class="cards3">
+                      <div className="cards3">
                         <span></span>
                       </div>
                     </div>
@@ -246,7 +246,7 @@ const MainPage = () => {
               <div className="col-lg-12 col-12">
                 <h1 className="card-title">About Me</h1>
 
-                <div class="cardabout text-center">
+                <div className="cardabout text-center">
                   <h2>Muhammad Haris</h2>
                 </div>
                 
